@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working as a software engineer at [SumUp](https://www.sumup.com/en-us/) for the Acquisition Tribe.
 - 🌱 At this moment I'm learning Python
-- 💬 Ask me about **AWS, Golang, Ruby, SQL/NoSQL Databases**
+- 💬 Ask me about **AWS, Golang, Ruby, SQL/NoSQL Databases and Cats**
 
 &emsp;
 

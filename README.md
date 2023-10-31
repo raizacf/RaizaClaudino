@@ -17,15 +17,14 @@
 
 &emsp;
 
-- 🔭 I’m currently working as a software engineer at [SumUp](https://www.sumup.com/en-us/) for the Acquisition Tribe.
-- 🌱 At this moment I'm learning Python
+- 🔭 I’m currently working as a software engineer at [Creative Fabrica](https://www.creativefabrica.com/) for the Acquisition Tribe.
 - 💬 Ask me about **AWS, Golang, Ruby, SQL/NoSQL Databases and Cats**
 
 &emsp;
 
 ### 💻 Profile Stats 
 <p align='center'>
-<img alt="RaizaClaudino's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raizaclaudino&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="RaizaClaudino's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raizacf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 &emsp;
